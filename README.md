@@ -1,25 +1,22 @@
 ## Hi there 👋
 
-I'm Shruti Kasera, a data scienctist and GIS analyst. 
+I'm Shruti Kasera, a data scientist and GIS analyst. 
 
-I am a recent graduate from the University of Toronto, where I earned by Honours Bachelor of Science in Geogrpahic Information Systems and Applied Statistics.
+I am a recent graduate from the University of Toronto, where I earned my Honours Bachelor of Science in Geographic Information Systems and Applied Statistics.
 
 If I have the data I can visualize it.
 
-My technical skillset is Python, R, SQL, FME, and Esri Suite. 
+## Featured Projects
 
-I have worked on many data-driven projects but one of my favourites is this one: [The Encroachment and Elimination of Wetlands](https://arcg.is/iOXju)
+**The Encroachment and Elimination of Wetlands** - A spatial analysis tracking wetland loss over time. [View Project](https://arcg.is/iOXju)
 
-**shruti-kasera/shruti-kasera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Type 2 Diabetes Prevalence** - Spatial data analysis conducted in collaboration with the University of Toronto and Novo Nordisk on public health research. 
 
-Here are some ideas to get you started:
+### Tools and Technology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Python (Pandas, NumPy, ArcPy), R (tidyverse, sp), SQL, FME
+•ETL pipeline development, Database administration, Data synchronization, API integration 
+•Regression analysis, Predictive modelling
+•Power BI, Tableau, Custom dashboard design, Web application design
+•ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, Spatial QA/QC, Geodatabase
+administration, Model Builder, CAD integration
