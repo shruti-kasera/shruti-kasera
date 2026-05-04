@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-<!--
+I'm Shruti Kasera, a data scienctist and GIS analyst. 
+
+I am a recent graduate from the University of Toronto, where I earned by Honours Bachelor of Science in Geogrpahic Information Systems and Applied Statistics.
+
+If I have the data I can visualize it.
+
+My technical skillset is Python, R, SQL, FME, and Esri Suite. 
+
+I have worked on many data-driven projects but one of my favourites is this one: [The Encroachment and Elimination of Wetlands] (https://arcg.is/iOXju)
+
 **shruti-kasera/shruti-kasera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
