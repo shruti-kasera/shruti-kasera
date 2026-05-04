@@ -6,7 +6,7 @@ I am a recent graduate from the University of Toronto, where I earned my Honours
 
 If I have the data I can visualize it.
 
-## Featured Projects
+### Featured Projects
 
 **The Encroachment and Elimination of Wetlands** - A spatial analysis tracking wetland loss over time. [View Project](https://arcg.is/iOXju)
 
