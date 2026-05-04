@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Shruti Kasera, a data scientist and GIS analyst. 
 
@@ -6,13 +6,17 @@ I am a recent graduate from the University of Toronto, where I earned my Honours
 
 If I have the data I can visualize it.
 
-## Featured Projects
+---
+
+### Featured Projects
 
 **The Encroachment and Elimination of Wetlands** - A spatial analysis tracking wetland loss over time. [View Project](https://arcg.is/iOXju)
 
 **Type 2 Diabetes Prevalence** - Spatial data analysis conducted in collaboration with the University of Toronto and Novo Nordisk on public health research. 
 
-## Tools and Technology 
+---
+
+### Tools and Technology 
 
 <ul>
   <li>Python (Pandas, NumPy, ArcPy), R (tidyverse, sp), SQL, FME</li>
