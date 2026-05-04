@@ -14,16 +14,6 @@ If I have the data I can visualize it.
 
 ## Tools and Technology 
 
-•Python (Pandas, NumPy, ArcPy), R (tidyverse, sp), SQL, FME
-
-•ETL pipeline development, Database administration, Data synchronization, API integration 
-
-•Regression analysis, Predictive modelling
-
-•Power BI, Tableau, Custom dashboard design, Web application design
-
-•ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, Spatial QA/QC, Geodatabase administration, Model Builder, CAD integration
-
 <ul>
   <li>Python (Pandas, NumPy, ArcPy), R (tidyverse, sp), SQL, FME</li>
   <li>ETL pipeline development, Database administration, Data synchronization, API integration </li>
