@@ -25,3 +25,10 @@ If I have the data I can visualize it.
   <li>Power BI, Tableau, Custom dashboard design, Web application design</li>
   <li>ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, Spatial QA/QC, Geodatabase administration, Model Builder, CAD integration</li>
 </ul>
+
+### A Little Bit About Me
+<ul>
+  <li>✈️I love travelling to historical and geographic landmarks</li>
+  <li>📚History and physics enthusiast. Lifelong learner.</li>
+  <li>🖌️Obsessed with graphic design - from dashboards to cartography and web design.</li>  
+</ul>
