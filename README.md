@@ -30,7 +30,7 @@ If I have the data I can visualize it.
 
 ### A Little Bit About Me
 <ul>
-  <li>✈️I love travelling to historical and geographic landmarks</li>
-  <li>📚History and physics enthusiast. Lifelong learner.</li>
-  <li>🖌️Obsessed with graphic design - from dashboards to cartography and web design.</li>  
+  <li>✈️ I love travelling to historical and geographic landmarks</li>
+  <li>📚 History and physics enthusiast. Lifelong learner.</li>
+  <li>🖌️ Obsessed with graphic design - from dashboards to cartography and web design.</li>  
 </ul>
